@@ -1,4 +1,4 @@
-# NESSSA SCRIPT HUB
+# NESSA SCRIPT HUB
 
 ## ABOUT NESSA
 - Nessa is a new upcoming script hub. Currently the hub isnt out but once it is it will be completely free.
