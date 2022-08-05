@@ -9,10 +9,10 @@
 - Discord: IN DEV
 - Script: IN DEV
 ## Executors we recommend.
--- PAID --
+-- PAID
 - Synapse (20$) supports Crypto, Paypal, and Giftcards
 - ScriptWare (20$) supports Crypto, Debit/Credit Card
--- FREE --
+-- FREE
 - Fluxus (Has a premium version but free version is perfect too).
 - Krnl
 ### Is the script is in dev currently?
