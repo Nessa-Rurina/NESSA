@@ -9,12 +9,12 @@
 - Discord: IN DEV
 - Script: IN DEV
 ## Executors we recommend.
--- PAID
-- Synapse (20$) supports Crypto, Paypal, and Giftcards
-- ScriptWare (20$) supports Crypto, Debit/Credit Card
--- FREE
-- Fluxus (Has a premium version but free version is perfect too).
-- Krnl
+- Paid
+- Synapse (20$) supports Crypto, Paypal, and Giftcards - Link: https://x.synapse.to/
+- ScriptWare (20$) supports Crypto, Debit/Credit Card - Link: https://script-ware.com/
+- Free
+- Fluxus - Link: https://fluxteam.net/
+- Krnl - Link: https://krnl.place/
 ### Is the script is in dev currently?
 - Yes.
 ### What is being worked on in the script?
